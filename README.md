@@ -10,10 +10,10 @@ Your e-commerce app can either deliver products or services. In any case, you mu
 
 As far as app features are concerned, keep the layout and interface neat and easy-to-navigate, include the location option for deliveries, incorporate a shopping cart, and a wishlist. Make sure the checkout process incorporates the necessary authentication options (as a guest or registered user). 
 
-### Technologies you can use:
+## Technologies you can use:
 
 ### -Create React App, or Gatsby are excellent choices for building the storefront that displays the products/services.
-## -Algolia is perfect for creating a lightning-fast product search interface.
-## -Netlify/AWS Lambda for handling the checkout process. 
-## -Stripe/react-stripe-elements for managing the payment process.
-## -Snipcart allows you to create a cart and also manage the cart products.
+### -Algolia is perfect for creating a lightning-fast product search interface.
+### -Netlify/AWS Lambda for handling the checkout process. 
+### -Stripe/react-stripe-elements for managing the payment process.
+### -Snipcart allows you to create a cart and also manage the cart products.
